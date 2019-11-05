@@ -1,0 +1,4 @@
+#jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+Image Classifier/flowers/
